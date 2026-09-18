@@ -1,0 +1,5 @@
+a = int(input("Введи ребро a"))
+b = int(input("Введи ребро b"))
+c = int(input("Введи ребро c"))
+V = print(a * b * c)
+S = print(2 * ( a * b + b * c + a *c ))

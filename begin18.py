@@ -1,0 +1,6 @@
+A = int(input("Введи число a"))
+B = int(input("Введи число b"))
+C = int(input("Введи число c"))
+AC = ( A + C )
+BC = ( B + C )  
+print( AC * BC )

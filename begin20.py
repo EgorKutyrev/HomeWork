@@ -1,0 +1,5 @@
+x1 =int(input("Введите x1 "))
+x2 =int(input("Введите x2 "))
+y1 =int(input("Введите y1 "))
+y2 =int(input("Введите y2 "))
+print(((x1 - x2)**2 + (y1 - y2) ** 2) ** 0.5)
